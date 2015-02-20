@@ -11,3 +11,4 @@ Steps to run
 3. Type source("run_Analysis.R") at the command prompt and press enter.
 4. The output file tidydata.txt will be output when the script completes.
 
+The file CodeBook.txt contains a brief description of the variables captured in tidydata.txt 

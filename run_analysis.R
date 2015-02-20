@@ -1,3 +1,4 @@
+# Read the various data from files into tables in the environment
 traintbl<-read.table("./train/X_train.txt",stringsAsFactors=FALSE)
 activities_train<-read.table("./train/y_train.txt",stringsAsFactors=FALSE)
 subj_train<- read.table("./train/subject_train.txt",stringsAsFactors=FALSE)
